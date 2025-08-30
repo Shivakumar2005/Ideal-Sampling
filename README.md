@@ -172,14 +172,13 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 # Output Waveform
-<img width="1919" height="1079" alt="Screenshot 2025-08-30 154743" src="https://github.com/user-attachments/assets/dce40cb3-e132-41bf-b325-6053ea56965a" />
+<img width="1255" height="583" alt="EXP1" src="https://github.com/user-attachments/assets/771e94b6-856b-44f0-9379-ded32a632a2e" />
+
 <img width="1919" height="1079" alt="Screenshot 2025-08-30 153813" src="https://github.com/user-attachments/assets/e7d9a870-4b20-4837-b2cc-7c19733871d7" />
 <img width="1919" height="1079" alt="Screenshot 2025-08-30 154743" src="https://github.com/user-attachments/assets/d9526cf2-7b27-4447-83b8-ee11d86a4ce3" />
 
 
 
 # Results
-```
-Attach the output waveform
-```
+Hence writing a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling is succefully verified
 # Hardware experiment output waveform.
